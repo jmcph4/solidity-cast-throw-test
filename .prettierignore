@@ -1,0 +1,9 @@
+contracts/*
+typechain/*
+.git/*
+.github/*
+artifacts/*
+cache/*
+*.md
+*.tmp
+gasReporterOutput.json
